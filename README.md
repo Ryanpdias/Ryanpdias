@@ -1,126 +1,85 @@
-<div align="center">
+<!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,50:00bfff,100:00d4ff&height=220&section=header&text=RYAN%20PONCIANO%20DIAS&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DESENVOLVIMENTO%20DE%20SISTEMAS%20%7C%20ETEC%20%7C%20AMS&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,50:00bfff,100:00d4ff&height=220&section=header&text=RYANPDIAS&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DESENVOLVIMENTO%20DE%20SISTEMAS%20%7C%20ETEC%20%7C%20AMS&descAlignY=60&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=00BFFF&center=true&vCenter=true&width=800&lines=💻+Estudante+de+Desenvolvimento+de+Sistemas;🌐+Desenvolvimento+Web;🗄️+Banco+de+Dados;🤖+IoT+e+Sistemas+Embarcados;🚀+Transformando+ideias+em+projetos;📚+Sempre+aprendendo+algo+novo!" />
+<!-- TYPING -->
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia+%F0%9F%92%BB;Desenvolvimento+Web+%F0%9F%8C%90;Banco+de+Dados+%F0%9F%97%84%EF%B8%8F;Interessado+em+IoT+e+Sistemas+Embarcados+%F0%9F%A4%96;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS%20NO%20PERFIL&color=0077ff&style=for-the-badge"/>
+<!-- VISITORS -->
 
-<br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ryanpdias&label=VISITANTES&color=0077ff&style=for-the-badge" />
+</p>
 
-</div>
+<!-- SOCIAL -->
 
----
+<p align="center">
+  <a href="https://github.com/Ryanpdias">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<div align="center">
+  <a href="https://linkedin.com/in/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-# 👋 Olá, eu sou o Ryan!
-
-### 💻 Estudante de Desenvolvimento de Sistemas AMS
-
-</div>
-
-Tenho **16 anos** e sou estudante do curso de **Desenvolvimento de Sistemas da ETEC**, por meio do programa **AMS — Articulação da Formação Profissional Média e Superior**.
-
-Sou uma pessoa curiosa, dedicada e interessada em tecnologia. Gosto de descobrir como as coisas funcionam, pesquisar novas soluções e principalmente **colocar o conhecimento em prática através de projetos**.
-
-Atualmente estou construindo minha base em **desenvolvimento web, programação e banco de dados**, além de explorar áreas como **IoT e sistemas embarcados**.
-
-Meu objetivo é continuar aprendendo, adquirir experiência profissional e evoluir até me tornar um desenvolvedor capaz de transformar ideias em soluções reais.
-
-<div align="center">
-
-### 💡 Curiosidade
-
-### 🧠 Conhecimento
-
-### 🛠️ Prática
-
-### 🚀 Projetos
-
-### 📈 Evolução
-
-</div>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-# 🧑‍💻 Quem sou eu?
+# 👨‍💻 Quem sou eu?
 
-<table>
-<tr>
-<td width="50%">
+Olá! Eu sou **Ryan Ponciano Dias**, estudante de **Desenvolvimento de Sistemas na ETEC**, pelo programa **AMS**.
 
-### 🎓 Formação
+Tenho interesse na área de tecnologia e estou constantemente buscando aprender novas ferramentas, linguagens e conceitos relacionados ao desenvolvimento de sistemas.
 
-**ETEC**
+Atualmente, estou desenvolvendo conhecimentos principalmente em **HTML, CSS, JavaScript e MySQL**, além de ferramentas utilizadas no desenvolvimento e organização de projetos.
 
-📚 Desenvolvimento de Sistemas
+Sou uma pessoa curiosa, gosto de entender como as coisas funcionam e procuro transformar o conhecimento adquirido em projetos e experiências práticas.
 
-🔗 Programa AMS
-
-📍 Brasil
-
-</td>
-
-<td width="50%">
-
-### 🎯 Objetivo
-
-Buscando minha primeira oportunidade profissional em:
-
-💼 Estágio
-💼 Jovem Aprendiz
-💻 Tecnologia
-🚀 Desenvolvimento de Sistemas
-
-</td>
-</tr>
-</table>
+> 🚀 Meu objetivo é continuar evoluindo na área de tecnologia e construir uma carreira sólida em Desenvolvimento de Sistemas.
 
 ---
 
-# ⚡ Minhas principais skills
+# 🧠 Minhas principais Skills
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,vscode" />
+<p align="center">
 
-<br><br>
+![HTML5](https://img.shields.io/badge/HTML5-Estudando-orange?style=for-the-badge\&logo=html5\&logoColor=white)
 
-<img src="https://img.shields.io/badge/HTML5-Estudando-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-Estudando-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Estudando-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-Estudando-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+![CSS](https://img.shields.io/badge/CSS-Estudando-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-Estudando-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+![MySQL](https://img.shields.io/badge/MySQL-Estudando-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+</p>
 
 ---
 
-# 🧰 Ferramentas
+# 🛠️ Ferramentas
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### 📚 Também possuo conhecimento em:
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-Em%20aprendizado-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-Utilizando-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-Utilizando-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</div>
-
-### 📊 Produtividade
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Microsoft%20Word-Conhecimento-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-Conhecimento-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Office-Conhecimento-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-
-</div>
+* Microsoft Word
+* Microsoft Excel
+* Microsoft Office
+* Organização e documentação
+* Desenvolvimento de trabalhos acadêmicos
+* Git e GitHub
 
 ---
 
@@ -168,298 +127,227 @@ Buscando minha primeira oportunidade profissional em:
 
 ### 📊 Linguagens mais utilizadas
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanpdias&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-
-> 📌 Os indicadores representam apenas uma visão pessoal do meu momento de aprendizado.
-
 ---
 
-# 🚀 Roadmap de aprendizado
-
-<div align="center">
-
-### 🟢 ATUAL
-
-`HTML` → `CSS` → `JavaScript` → `MySQL`
-
-⬇️
-
-### 🟡 PRÓXIMO
-
-`Git` → `APIs` → `Projetos Web` → `IoT`
-
-⬇️
-
-### 🔵 FUTURO
-
-`Python` → `Java` → `Delphi`
-
-⬇️
-
-### 🚀 OBJETIVO
-
-**Desenvolvedor de Software**
-
-</div>
-
----
-
-# 🌱 Tecnologias que quero aprender
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Java-Próximo%20objetivo-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Próximo%20objetivo-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Delphi-Quero%20conhecer-E62431?style=for-the-badge&logo=delphi&logoColor=white"/>
-
-</div>
-
-Também quero continuar evoluindo em:
-
-* 🔌 IoT
-* 🤖 Sistemas embarcados
-* 🗄️ Bancos de dados
-* 🌐 Desenvolvimento Web
-* 🔗 APIs
-* 🧩 Arquitetura de sistemas
-* 🧪 Testes e boas práticas
-
----
-
-# 💡 Projetos futuros
-
-<div align="center">
+# 🚀 Roadmap
 
 ```text
-📚 Projetos da ETEC
-        ↓
-🌐 Aplicações Web
-        ↓
-🗄️ Banco de Dados
-        ↓
-🤖 IoT
-        ↓
-🔌 Sistemas Embarcados
-        ↓
-🚀 Projetos Pessoais
+HTML
+  ↓
+CSS
+  ↓
+JavaScript
+  ↓
+MySQL
+  ↓
+Git & GitHub
+  ↓
+Java
+  ↓
+Python
+  ↓
+Delphi
+  ↓
+Projetos mais completos
 ```
 
-</div>
+---
 
-Este perfil será atualizado conforme novos projetos forem desenvolvidos.
+# 🔮 Tecnologias que quero aprender
 
-Pretendo utilizar meus repositórios para documentar minha evolução, meus estudos e os projetos que desenvolver durante minha formação.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
+
+### 🎯 Próximos objetivos
+
+* ☕ Java
+* 🐍 Python
+* 🔷 Delphi
+* 🗄️ Aprofundar conhecimentos em bancos de dados
+* 🌐 Evoluir no desenvolvimento Web
+* 🤖 Aprender mais sobre IoT
+* ⚙️ Conhecer melhor Sistemas Embarcados
 
 ---
 
-# 🧠 Como eu aprendo
+# 📁 Projetos futuros
 
-<div align="center">
+Tenho interesse em desenvolver projetos que me permitam colocar meus conhecimentos em prática.
 
-### 🔎 PESQUISO
+### 🌐 Desenvolvimento Web
 
-Procuro entender o problema e descobrir como determinada tecnologia funciona.
+Aplicações web para resolver problemas reais e facilitar tarefas do dia a dia.
 
-⬇️
+### 🗄️ Banco de Dados
 
-### 📖 ESTUDO
+Projetos envolvendo cadastro, organização e gerenciamento de informações.
 
-Busco documentação, exemplos e diferentes maneiras de resolver o problema.
+### 🤖 IoT
 
-⬇️
+Projetos utilizando sensores, microcontroladores e comunicação entre dispositivos.
 
-### 🛠️ PRATICO
+### ⚙️ Sistemas Embarcados
 
-Transformo o conhecimento em código e projetos.
+Explorar a integração entre hardware e software.
 
-⬇️
+### 💡 Projetos pessoais
 
-### 🐛 ERRO
-
-Encontro problemas e tento entender por que eles aconteceram.
-
-⬇️
-
-### 🔧 CORRIJO
-
-Testo soluções e melhoro o projeto.
-
-⬇️
-
-### 🚀 EVOLUO
-
-Uso o conhecimento adquirido no próximo projeto.
-
-</div>
+Criar aplicações próprias para experimentar novas tecnologias e aprender na prática.
 
 ---
 
-</div>
+# 🧩 Como eu aprendo
+
+Acredito que a melhor forma de aprender programação é **colocando o conhecimento em prática**.
+
+Meu processo envolve:
+
+```text
+📖 Estudar
+     ↓
+🧠 Entender
+     ↓
+💻 Praticar
+     ↓
+🔧 Criar projetos
+     ↓
+🐛 Encontrar erros
+     ↓
+🔎 Pesquisar soluções
+     ↓
+📈 Evoluir
+```
+
+> "Não preciso saber tudo agora. Preciso continuar aprendendo."
 
 ---
 
 # 📈 Minha evolução
 
-<div align="center">
-
-```text
-2026
- │
- ├── 🎓 Entrada / formação na ETEC
- │
- ├── 🌐 HTML + CSS
- │
- ├── ⚡ JavaScript
- │
- ├── 🗄️ MySQL
- │
- ├── 🤖 IoT
- │
- └── 🚀 Próximos projetos
- │
- ▼
-FUTURO
- │
- ├── 🐍 Python
- ├── ☕ Java
- ├── 🔵 Delphi
- └── 💼 Primeira experiência profissional
-```
-
-</div>
+| Período           | Foco                        |
+| ----------------- | --------------------------- |
+| 🎓 Formação atual | Desenvolvimento de Sistemas |
+| 🌐 Atual          | HTML, CSS e JavaScript      |
+| 🗄️ Atual         | MySQL                       |
+| 🔧 Atual          | Git, GitHub e VS Code       |
+| ☕ Próximo         | Java                        |
+| 🐍 Próximo        | Python                      |
+| 🔷 Futuro         | Delphi                      |
+| 🚀 Futuro         | Projetos profissionais      |
 
 ---
 
-</div>
+# 🐍 Atividade no GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 # 🎓 Formação
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/ETEC-Desenvolvimento%20de%20Sistemas-0077ff?style=for-the-badge"/>
-
-<br><br>
-
 ### 🏫 ETEC
 
 **Curso:** Desenvolvimento de Sistemas
-
 **Programa:** AMS — Articulação da Formação Profissional Média e Superior
 
-**Status:** Em formação
+📚 Atualmente desenvolvendo conhecimentos em:
 
-🇧🇷 Brasil/SP/Boituva
-</div>
+* Desenvolvimento Web
+* Banco de Dados
+* Programação
+* Sistemas Embarcados
+* IoT
+* Git e GitHub
+* Lógica de Programação
 
 ---
 
 # 🎯 Objetivo profissional
 
-<div align="center">
+Meu objetivo é **crescer profissionalmente na área de tecnologia**, adquirindo experiência prática e desenvolvendo cada vez mais minhas habilidades.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=00A8FF&center=true&vCenter=true&width=750&lines=🔎+Buscando+minha+primeira+oportunidade;💼+Estágio+ou+Jovem+Aprendiz;💻+Área+de+Tecnologia;🚀+Pronto+para+aprender+e+evoluir" />
+Tenho interesse em oportunidades como:
 
-</div>
+💼 **Estágio em Tecnologia**
+💻 **Desenvolvimento de Sistemas**
+🌐 **Desenvolvimento Web**
+🧑‍💻 **Jovem Aprendiz na área de Tecnologia**
 
-Atualmente, busco uma oportunidade de **estágio ou Jovem Aprendiz na área de tecnologia**.
-
-Tenho interesse em oportunidades que me permitam:
-
-* 👨‍💻 Desenvolver minhas habilidades técnicas
-* 🤝 Trabalhar em equipe
-* 📚 Aprender com profissionais experientes
-* 🧠 Conhecer novas tecnologias
-* 🚀 Participar de projetos reais
-* 💼 Adquirir minha primeira experiência profissional
-
-Estou no início da minha trajetória, mas tenho **curiosidade, disposição para aprender e vontade de transformar conhecimento em prática**.
+Busco uma oportunidade onde eu possa **aprender, contribuir e evoluir junto com a equipe**.
 
 ---
 
-# 🧩 O que posso oferecer
+# 💎 O que posso oferecer
 
-<div align="center">
+Mesmo estando no início da minha trajetória profissional, acredito que posso contribuir com:
 
-<table>
-<tr>
-<td align="center">🧠<br><b>Curiosidade</b><br>Vontade de entender</td>
-<td align="center">📚<br><b>Aprendizado</b><br>Busca constante</td>
-<td align="center">🛠️<br><b>Prática</b><br>Aprender fazendo</td>
-<td align="center">🚀<br><b>Dedicação</b><br>Vontade de evoluir</td>
-</tr>
-</table>
-
-</div>
+* 🧠 Vontade de aprender
+* 🔎 Curiosidade
+* 🚀 Proatividade
+* 📚 Facilidade para adquirir novos conhecimentos
+* 🤝 Trabalho em equipe
+* 💻 Conhecimentos em desenvolvimento
+* 🧩 Raciocínio lógico
+* 📈 Busca constante por evolução
 
 ---
 
-# 🏆 Minha filosofia
+# 🧠 Minha filosofia
 
-<div align="center">
+<p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2500&color=00A8FF&center=true&vCenter=true&width=800&lines=Não+preciso+saber+tudo+hoje.;Preciso+estar+disposto+a+aprender+todos+os+dias.;Cada+erro+é+uma+oportunidade+de+evoluir.;Meu+objetivo+é+ser+melhor+que+ontem." />
+### 🚀 Aprender.
 
-</div>
+### 💻 Praticar.
 
-<br>
+### 🧩 Resolver problemas.
 
-Acredito que a tecnologia está em constante evolução e que um bom profissional precisa estar disposto a aprender continuamente.
+### 📈 Evoluir.
 
-Por isso, este GitHub também funciona como um registro da minha evolução.
+### 🎯 Construir.
 
-<div align="center">
-
-### 📈 Cada projeto representa uma etapa do meu aprendizado.
-
-</div>
+</p>
 
 ---
 
-# 📫 Vamos conversar?
+# 📫 Entre em contato
 
-<div align="center">
+<p align="center">
 
-### 🤝 Estou aberto a novas oportunidades e conexões!
+<a href="https://github.com/Ryanpdias">
+<img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<br>
+<a href="https://linkedin.com/in/SEU_USUARIO">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
 <a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/📧%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0077ff,100:0055ff&height=150&section=footer"/>
+### ⭐ Obrigado por visitar meu perfil!
 
-### 🚀 Obrigado por visitar meu perfil!
+**Ryanpdias**
+*Estudante de Desenvolvimento de Sistemas | ETEC | AMS*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2500&color=00A8FF&center=true&vCenter=true&width=600&lines=Ryan+Ponciano+Dias;Estudante+de+Desenvolvimento+de+Sistemas;ETEC+%7C+AMS;Aprendendo+%E2%80%A2+Construindo+%E2%80%A2+Evoluindo" />
+</p>
 
-<br>
+<!-- FOOTER -->
 
-⭐ **Aprendendo • Construindo • Evoluindo**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,50:00bfff,100:00d4ff&height=120&section=footer" width="100%"/>
