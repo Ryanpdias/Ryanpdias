@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia+%F0%9F%92%BB;Desenvolvimento+Web+%F0%9F%8C%90;Banco+de+Dados+%F0%9F%97%84%EF%B8%8F;Interessado+em+IoT+e+Sistemas+Embarcados+%F0%9F%A4%96;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" />
 </p>
 
-<!-- VISITORS -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ryanpdias&label=VISITANTES&color=0077ff&style=for-the-badge" />
-</p>
-
 <!-- SOCIAL -->
 
 <p align="center">
