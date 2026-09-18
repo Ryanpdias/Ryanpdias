@@ -2,27 +2,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,50:00bfff,100:00d4ff&height=220&section=header&text=RYANPDIAS&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DESENVOLVIMENTO%20DE%20SISTEMAS%20%7C%20ETEC%20%7C%20AMS&descAlignY=60&descSize=17" width="100%"/>
 
-<!-- TYPING -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia+%F0%9F%92%BB;Desenvolvimento+Web+%F0%9F%8C%90;Banco+de+Dados+%F0%9F%97%84%EF%B8%8F;Interessado+em+IoT+e+Sistemas+Embarcados+%F0%9F%A4%96;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" />
 </p>
-
-<!-- SOCIAL -->
 
 <p align="center">
   <a href="https://github.com/Ryanpdias">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/55diass">
+  <a href="https://instagram.com/55diass" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-<a href="mailto:ryan,pdias2010@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ryan.pdias2010@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -318,31 +313,9 @@ Mesmo estando no início da minha trajetória profissional, acredito que posso c
 
 <p align="center">
 
-<a href="https://github.com/Ryanpdias">
+<a href="https://github.com/Ryanpdias" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://instagram.com/55diass">
-<img src="https://img.shields.io/badge/Instagram-@55diass-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:Ryan.pdias2010@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Obrigado por visitar meu perfil!
-
-**Ryanpdias**
-*Estudante de Desenvolvimento de Sistemas | ETEC | AMS*
-
-</p>
-
-<!-- FOOTER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,50:00bfff,100:00d4ff&height=120&section=footer" width="100%"/>
+<a href="https://instagram.com/55diass" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-@55diass-E4405F?style=for-the-badge&logo=instagram&logoCo
