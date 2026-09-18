@@ -15,11 +15,11 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/in/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://instagram.com/55diass">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:Ryan.pdias2010@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -321,11 +321,11 @@ Mesmo estando no início da minha trajetória profissional, acredito que posso c
 <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/SEU_USUARIO">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://instagram.com/55diass">
+<img src="https://img.shields.io/badge/Instagram-@55diass-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:Ryan.pdias2010@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
